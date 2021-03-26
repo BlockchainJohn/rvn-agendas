@@ -23,4 +23,4 @@
 1. Should we "re-introduce" and use SegWit?
 1. Vincent released an article on Medium pertaining to burn rate.
 1. Forking test net. - Jeroz
- 			
+1. What's the update on the RVN DEX and RavenMask Wallet?	-Blockchain John		
